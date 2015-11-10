@@ -1,0 +1,16 @@
+body {
+	background-color:blue;
+}
+
+p {
+	color:red;
+}
+
+div {
+	border:solid;
+	background-color: yellow;
+	color:green;
+}
+h1 {
+	font-family:fantasy;
+}
